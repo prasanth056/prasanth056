@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 About Me<br><br>I'm **Prasanth Kumar**, a passionate Software Developer from India.<br><br>🚀 I love building scalable web applications and Android apps.<br>💡 Interested in Artificial Intelligence, Cloud Technologies, and Automation.<br>🎯 Focused on writing clean, efficient, and maintainable code.<br>🌱 Learning something new every day.
+## 👨‍💻 About Me<br><br>Hi, I'm **Prasanth Kumar** 👋<br><br>💻 Full Stack Web Developer  <br>📱 Android App Developer (Kotlin & Flutter)  <br>🎨 UI/UX Designer & Graphic Designer  <br>🤖 AI Enthusiast & Automation Explorer  <br>🚀 Building modern websites, Android apps, and SaaS products.<br><br>✨ I enjoy creating fast, responsive, user-friendly, and visually appealing digital experiences while continuously learning new technologies.
 
 
 ## 🌐 Socials:
